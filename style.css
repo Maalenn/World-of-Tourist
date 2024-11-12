@@ -178,3 +178,7 @@ body {
   opacity: 1;
   filter: blur(0);
 }
+
+.notFound{
+  font-size: 32px;
+}
